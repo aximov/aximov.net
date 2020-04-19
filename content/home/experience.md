@@ -37,6 +37,7 @@ date_format = "Jan 2006"
   date_end = "2020-03-31"
   description = """
   修士論文タイトル: 遠方における銀河団ガスの共鳴散乱シミュレーション
+  卒業研究から引き続き研究
   """
 
 [[experience]]
@@ -46,6 +47,6 @@ date_format = "Jan 2006"
   location = "東京"
   date_start = "2014-04-05"
   date_end = "2018-03-31"
-  description = """卒業研究として松下研究室に配属、大学院もそこで研究しようと決める"""
+  description = """卒業研究で松下研究室に配属"""
 
 +++
