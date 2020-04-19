@@ -19,13 +19,13 @@
   weight = 30
 
 [[main]]
-  name = "Accomplishments"
+  name = "Qualifications"
   url = "#accomplishments"
   weight = 40
 
 [[main]]
   name = "Projects"
-  url = "#project"
+  url = "#projects"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

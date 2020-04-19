@@ -23,13 +23,31 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "60%"  
+  name = "Physics"
+  description = "80%"  
 
 [[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "English"
   description = "70%"
+
+[[feature]]
+  icon = "cogs"
+  icon_pack = "fas"
+  name = "C++"
+  description = "60%"
+
+[[feature]]
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Python"
+  description = "50%"
+
+[[feature]]
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Node.js"
+  description = "50%"
 
 +++
