@@ -53,6 +53,8 @@ External Project
 
 Internal Projects
 
+* atmo: チームの心理的安全性を高めるための話題共有ツール
+* benissimo: 心理的安全性サーベイツール
 * resonantor: X 線の共鳴散乱シミュレーションコード (C++, Geant4)
 * resonantor-pipeline: resonantor を多様な条件下でほぼ自動で並列実行するパイプライン (Python)
 * mg-control-tower: Infrastructure as Code な研究室マシン管理とモニタリング (Ansible, Docker, Prometheus, Alertmanager, Grafana)
