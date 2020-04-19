@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Akimoto Daichi (aximov)
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Astronomer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Tokyo University of Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: メンテナンス性の高いコードを設計、書くのが好きです。
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 高エネルギー天文学
+- 統計学
+- C++, Python, Node.js
+- 日常で役立つ技術
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 修士（理学）
+    institution: 東京理科大学大学院理学研究科物理学専攻
+    year: 2020
+  - course: 学士（理学）
+    institution: 東京理科大学理学部物理学科
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:d@alumni.tus.ac.jp"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/aximovich
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aximov
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +56,19 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "d@alumni.tus.ac.jp"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+大学院では天文学の研究をしました。テーマは銀河団における X 線の散乱シミュレーションです。研究では C++ でシミュレーションのコアを書き、パイプラインを Python で構築しました。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+研究室では15台ほどの Linux マシンからなる計算環境を同期と協力して管理することもしました。 NIS や NFS を用いたネットワークの手動管理を、 Ansible による Infrastructure as Code に置き換え、同時に Prometheus によるモニタリングを立てました。
+
+同じ時期、ドワンゴの教育事業本部プログラミングセクションでの教材制作補助アルバイトを3年間勤めました。主に Node.js を扱う教材の編集に携わり、 TypeScript の社内ツール開発にも携わりました。現在は web エンジニアとして働いています。
+
+私生活では料理とゲームを好みます。 Code for Japan を通して、市民を empower できる技術、社会をボトムアップで構築できる技術を育むために微力ながら活動しています。
