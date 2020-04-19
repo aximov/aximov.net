@@ -52,6 +52,12 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/aximov
+- icon: pen
+  icon_pack: fas
+  link: https://aximov.hatenablog.com/
+- icon: code
+  icon_pack: fas
+  link: https://atcoder.jp/users/aximov
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,10 +74,10 @@ email: "d@alumni.tus.ac.jp"
 # - Visitors
 ---
 
-大学院では天文学の研究をしました。テーマは銀河団における X 線の散乱シミュレーションです。研究では C++ でシミュレーションのコアを書き、パイプラインを Python で構築しました。
+大学院で天文学の研究をしていました。テーマは銀河団における X 線の散乱シミュレーションです。 C++ でシミュレーションのコアを書き、パイプラインを Python で構築しました。
 
-研究室では15台ほどの Linux マシンからなる計算環境を同期と協力して管理することもしました。 NIS や NFS を用いたネットワークの手動管理を、 Ansible による Infrastructure as Code に置き換え、同時に Prometheus によるモニタリングを立てました。
+研究室では15台ほどの Linux マシンからなる計算環境を同期と協力して管理していました。 NIS や NFS を用いたネットワークの手動管理を、 Ansible による Infrastructure as Code に置き換え、同時に Prometheus によるモニタリングを立てました。
 
-同じ時期、ドワンゴの教育事業本部プログラミングセクションでの教材制作補助アルバイトを3年間勤めました。主に Node.js を扱う教材の編集に携わり、 TypeScript の社内ツール開発にも携わりました。現在は web エンジニアとして働いています。
+同じ時期、ドワンゴの教育事業本部プログラミングセクションでの教材制作補助アルバイトを3年間勤めました。主に Node.js を扱う教材の編集に携わり、 TypeScript で書かれた社内ツール開発にも携わりました。現在は web エンジニアとして働いています。
 
 私生活では料理とゲームを好みます。 Code for Japan を通して、市民を empower できる技術、社会をボトムアップで構築できる技術を育むために微力ながら活動しています。

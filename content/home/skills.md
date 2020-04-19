@@ -39,14 +39,14 @@ subtitle = ""
   description = "60%"
 
 [[feature]]
-  icon = "cubes"
-  icon_pack = "fas"
+  icon = "python"
+  icon_pack = "fab"
   name = "Python"
   description = "50%"
 
 [[feature]]
-  icon = "cubes"
-  icon_pack = "fas"
+  icon = "node"
+  icon_pack = "fab"
   name = "Node.js"
   description = "50%"
 
