@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "東京"
   date_start = "2020-04-01"
-  date_end = ""
+  date_end = "2020-04-28"
   description = """ジョブカン事業部
   """
 

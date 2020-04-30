@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Astronomer
+role: Astronomer, software developer
 
 # Organizations/Affiliations
 organizations:
-- name: Tokyo University of Science
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -78,6 +78,6 @@ email: "d@alumni.tus.ac.jp"
 
 研究室では15台ほどの Linux マシンからなる計算環境を同期と協力して管理していました。 NIS や NFS を用いたネットワークの手動管理を、 Ansible による Infrastructure as Code に置き換え、同時に Prometheus によるモニタリングを立てました。
 
-同じ時期、ドワンゴの教育事業本部プログラミングセクションでの教材制作補助アルバイトを3年間勤めました。主に Node.js を扱う教材の編集に携わり、 TypeScript で書かれた社内ツール開発にも携わりました。現在は web エンジニアとして働いています。
+同じ時期、ドワンゴの教育事業本部プログラミングセクションでの教材制作補助アルバイトを3年間勤めました。主に Node.js を扱う教材の編集に携わり、 TypeScript で書かれた社内ツール開発にも携わりました。直近は web エンジニアとして働いていました。
 
 私生活では料理とゲームを好みます。 Code for Japan を通して、市民を empower できる技術、社会をボトムアップで構築できる技術を育むために微力ながら活動しています。

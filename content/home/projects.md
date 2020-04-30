@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-External Project
+Public Projects
 
 * [Witness-me](https://github.com/aximov/witness-me): あつまれどうぶつの森のマイデザイン共有サイト (Ruby on Rails)
 * [sleep-logger](https://github.com/aximov/sleep-logger): シンプルに睡眠時間を記録して累積値を見るだけの Android アプリ (Kotlin)
