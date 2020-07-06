@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   company = "株式会社ドワンゴ"
   company_url = "https://dwango.co.jp/"
   location = "東京"
-  date_start = "2017-12-15"
+  date_start = "2016-12-15"
   date_end = "2020-03-31"
   description = """
   N予備校のプログラミング教材と大学受験教材の編集補助
