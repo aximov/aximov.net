@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "エンジニア"
-  company = "株式会社 Legalscape"
+  company = "株式会社Legalscape"
   company_url = "https://www.legalscape.co.jp/"
   location = "東京"
   date_start = "2020-07-01"
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Web エンジニア"
-  company = "株式会社 Donuts"
+  company = "株式会社Donuts"
   company_url = "https://www.donuts.ne.jp/"
   location = "東京"
   date_start = "2020-04-01"
@@ -47,6 +47,17 @@ date_format = "Jan 2006"
   date_end = "2020-03-31"
   description = """
   卒業研究から引き続き研究。修士論文タイトルは「遠方における銀河団ガスの共鳴散乱シミュレーション」
+  """
+
+[[experience]]
+  title = "アルバイト"
+  company = "株式会社ドワンゴ"
+  company_url = "https://dwango.co.jp/"
+  location = "東京"
+  date_start = "2017-12-15"
+  date_end = "2020-03-31"
+  description = """
+  N予備校のプログラミング教材と大学受験教材の編集補助
   """
 
 [[experience]]
