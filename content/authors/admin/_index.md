@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Astronomer, software developer
+role: Astronomer, software engineer
 
 # Organizations/Affiliations
 organizations:
@@ -74,12 +74,12 @@ email: "d@alumni.tus.ac.jp"
 # - Visitors
 ---
 
+近頃はなんでも屋をしています。
+
 大学院で天文学の研究をしていました。テーマは銀河団における X 線の散乱シミュレーションです。 C++ でシミュレーションのコアを書き、パイプラインを Python で構築しました。
 
 研究室では15台ほどの Linux マシンからなる計算環境を同期と協力して管理していました。 NIS や NFS を用いたネットワークの手動管理を、 Ansible による Infrastructure as Code に置き換え、同時に Prometheus によるモニタリングを立てました。
 
-同じ時期、ドワンゴでN予備校の教材制作補助アルバイトを3年間勤めました。 Node.js など様々な教材の編集に携わり、 JavaScript で書かれた社内ツール開発にも携わりました。
-
-直近は Donuts ジョブカン事業部で web エンジニアとして非常に短期間ながら働いていました。
+同じ時期、ドワンゴでN予備校の教材制作補助アルバイトを3年間勤めました。 Node.js など様々な教材の編集に携わり、 ES6 や TypeScript で書かれた大学受験教材編集ツールの開発にも携わりました。
 
 私生活では料理とゲームを好みます。 Code for Japan を通して、市民を empower できる技術、社会をボトムアップで構築できる技術を育むために微力ながら活動しています。

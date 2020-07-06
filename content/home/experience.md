@@ -19,9 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "エンジニア"
+  company = "株式会社Legalscape"
+  company_url = "https://www.legalscape.co.jp/"
+  location = "東京"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
   title = "Web エンジニア"
   company = "株式会社 Donuts"
-  company_url = ""
+  company_url = "https://www.donuts.ne.jp/"
   location = "東京"
   date_start = "2020-04-01"
   date_end = "2020-04-28"
