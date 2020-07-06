@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "エンジニア"
-  company = "株式会社Legalscape"
+  company = "株式会社 Legalscape"
   company_url = "https://www.legalscape.co.jp/"
   location = "東京"
   date_start = "2020-07-01"
